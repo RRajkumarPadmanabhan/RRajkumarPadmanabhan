@@ -11,6 +11,6 @@ username: deadpool password : user
 -if you want a new username or password you can create a new one in django superuser
 
 
-NB: THIS IS A ZIP FILE and so you cant view the file here thats why you should downlord the zip file and unzip then run in your pc/Laptop
+NB: THIS IS A ZIP FILE and so you cant view the file here thats why you should downlord (by click VIEW RAW inside the zip) and unzip then run in your pc/Laptop
 
 -by rrajkumarpadmanabhan
